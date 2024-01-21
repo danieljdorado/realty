@@ -1,5 +1,5 @@
 """
-Internal property model.
+Internal Realty Domain model.
 """
 
 import re
@@ -12,7 +12,8 @@ us_address_regex = re.compile(
     ^                           # Start of string
     (?P<street_number>\d+)      # Named Group: Match one or more digits (street number)
     \s+                         # Match one or more whitespace characters
-    (?P<street_name>[\w\s.#-]+)  # Named Group: Match street name (alphanumeric, spaces, dots, hyphens)
+    (?P<street_name>[\w\s.#-]+)
+    # Named Group: Match street name (alphanumeric, spaces, dots, hyphens)
     ,\s*                        # Match comma and optional whitespace
     (?P<city>[\w\s.-]+)         # Named Group: Match city (alphanumeric, spaces, dots, hyphens)
     ,\s*                        # Match comma and optional whitespace
@@ -85,4 +86,48 @@ def build_property_search_row(prop: Dict) -> SearchPropertyRow:
         city=city,
         state=state,
         zip_code=zip_code,
+    )
+
+
+@dataclass
+class RealtyProperty:
+    """Dataclass representing land and buildings on it and natural resources."""
+
+    zpid: int
+    price: int
+    "Asking price."
+    property_tax_rate: float
+    time_on_zillow: str
+    zestimate: int
+    rent_zestimate: str
+    annual_homeowners_insurance: int
+    beds: int
+    baths: int
+    description: str
+    living_area_value: int
+    year_built: int
+    page_view_count: int
+    home_status: str
+    monthly_hoa_fee: Optional[int]
+
+
+def build_realty_property(prop: Dict) -> RealtyProperty:
+    """Build Realty Property"""
+
+    return RealtyProperty(
+        zpid=prop["zpid"],
+        price=prop["price"],
+        property_tax_rate=prop["propertyTaxRate"],
+        time_on_zillow=prop["timeOnZillow"],
+        zestimate=prop["zestimate"],
+        rent_zestimate=prop["rentZestimate"],
+        annual_homeowners_insurance=prop["annualHomeownersInsurance"],
+        beds=prop["bedrooms"],
+        baths=prop["bathrooms"],
+        description=prop["description"],
+        living_area_value=prop["livingAreaValue"],
+        year_built=prop["yearBuilt"],
+        page_view_count=prop["pageViewCount"],
+        home_status=prop["homeStatus"],
+        monthly_hoa_fee=prop["monthlyHoaFee"],
     )

@@ -3,9 +3,10 @@ Dataclasses for Zillow API.
 """
 
 
-import marshmallow
-from marshmallow_dataclass import dataclass
 from typing import Dict, List, Optional
+from marshmallow_dataclass import dataclass
+
+import marshmallow
 
 # Schema for the Search API. This returns a list of properties and essential data
 # that can be used for refining results.
@@ -92,3 +93,52 @@ class ZillowSearchResponse:
     totalResultCount: int
     schools: Dict
     currentPage: int
+
+
+# Schema for Individual Properties.
+
+@dataclass
+class Address:
+    """Propert Address"""
+    community: Optional[str]
+    city: str
+    neighborhood: Optional[str]
+    subdivision: Optional[str]
+    streetAddress: str
+    zipcode: int
+
+@dataclass
+class MortgageRates:
+    "Mortgage Rate Data."
+    thirtyYearFixedRate: float
+
+@dataclass
+class ZillowPropertyResponse:
+    """Class representing the Returned Response Object for a Specific Property."""
+    zpid: int
+    "Zillow Property ID"
+    propertyTaxRate: float
+    address: Address
+    timeOnZillow: str
+    zestimate: int
+    description: str
+    price: int
+    livingAreaValue: int
+    rentZestimate: int
+    bathrooms: int
+    annualHomeownersInsurance: int
+    yearBuilt: int
+    pageViewCount: int
+    "How many times this page as been viewed on Zillow."
+    mortgageRates: MortgageRates
+    monthlyHoaFee: Optional[int]
+    homeStatus: str
+    "Listing status. For sale, sold, etc."
+    homeFacts: Optional[str]
+    latitude: float
+    # TODO: Set this as datetime.
+    datePosted: str
+    bedrooms: int
+    livingArea: int
+    favoriteCount: int
+    "How many users have favorited this property."
