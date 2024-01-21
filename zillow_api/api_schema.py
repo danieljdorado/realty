@@ -99,7 +99,7 @@ class ZillowSearchResponse:
 
 @dataclass
 class Address:
-    """Propert Address"""
+    """Property Address"""
     community: Optional[str]
     city: str
     neighborhood: Optional[str]
