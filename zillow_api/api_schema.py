@@ -38,7 +38,7 @@ class Property:
     "Date this property was last sold. Only if property isn't listed for sale" ""
     propertyType: str
     "What kind of property this is. Detached house, condo, etc."
-    lotAreaValue: int
+    lotAreaValue: float
     "Lot size"
     address: str
     "Full address of property."
