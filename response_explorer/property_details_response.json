@@ -1,0 +1,744 @@
+{
+    "listingProvider": null,
+    "zpid": 2054877337,
+    "buildingPermits": null,
+    "propertyTaxRate": 1.16,
+    "contact_recipients": [
+        {
+            "agent_reason": 1,
+            "zpro": null,
+            "recent_sales": 0,
+            "review_count": 137,
+            "display_name": "The RR Group",
+            "zuid": "X1-ZUwjswphfm5zih_282em",
+            "rating_average": 5,
+            "badge_type": "Premier Agent",
+            "phone": {
+                "prefix": "415",
+                "areacode": "626",
+                "number": "0789"
+            },
+            "image_url": "https://photos.zillowstatic.com/h_n/ISbl298krksk7q0000000000.jpg"
+        }
+    ],
+    "zipcode": "92395",
+    "openHouseSchedule": {},
+    "longitude": -117.29671,
+    "zestimateLowPercent": "5",
+    "address": {
+        "community": null,
+        "city": "Victorville",
+        "state": "CA",
+        "neighborhood": null,
+        "subdivision": null,
+        "streetAddress": "16604 E St",
+        "zipcode": "92395"
+    },
+    "cityId": 27683,
+    "timeOnZillow": "89 days",
+    "url": "/homedetails/16604-E-St-Victorville-CA-92395/2054877337_zpid/",
+    "zestimate": 256900,
+    "imgSrc": "https://photos.zillowstatic.com/fp/2b78718aeb1ddb89a6342308dd1eb7fb-p_d.jpg",
+    "description": "MOTIVATED SELLER! PRICED TO SELL FAST! This single-family home is an ideal choice for first-time homebuyers or investors. It features a spacious open floor plan with a generously sized kitchen and living room, creating a welcoming and airy atmosphere. The property boasts three bedrooms, providing ample space for a family or potential rental income. Notably, there is the exciting opportunity to build an Accessory Dwelling Unit (ADU) in the backyard, which can be a valuable addition for extended family living or rental income. The front and backyard spaces offer great potential for outdoor activities and landscaping.",
+    "price": 260000,
+    "livingAreaValue": 1190,
+    "resoFacts": {
+        "hasAttachedProperty": false,
+        "frontageType": null,
+        "poolFeatures": [
+            "None"
+        ],
+        "flooring": null,
+        "builderModel": null,
+        "accessibilityFeatures": null,
+        "hasGarage": true,
+        "hasPetsAllowed": null,
+        "bodyType": null,
+        "topography": null,
+        "landLeaseExpirationDate": null,
+        "hasAdditionalParcels": false,
+        "waterViewYN": null,
+        "livingQuarters": {},
+        "totalActualRent": null,
+        "offerReviewDate": null,
+        "horseYN": null,
+        "view": [
+            "None"
+        ],
+        "buyerAgencyCompensationType": "%",
+        "rooms": {},
+        "belowGradeFinishedArea": null,
+        "feesAndDues": [
+            {
+                "phone": null,
+                "name": null,
+                "fee": null,
+                "type": "HOA"
+            }
+        ],
+        "cityRegion": "Victorville",
+        "mainLevelBathrooms": 1,
+        "hasPrivatePool": null,
+        "associationFeeIncludes": null,
+        "waterSource": [
+            "Public"
+        ],
+        "carportParkingCapacity": null,
+        "inclusions": null,
+        "hasFireplace": false,
+        "gas": null,
+        "sewer": [
+            "Public Sewer"
+        ],
+        "elevationUnits": "Feet",
+        "roadSurfaceType": null,
+        "subdivisionName": null,
+        "numberOfUnitsVacant": null,
+        "hasWaterfrontView": null,
+        "bathroomsOneQuarter": null,
+        "lotSize": "7,100 sqft",
+        "entryLevel": null,
+        "irrigationWaterRightsAcres": null,
+        "greenWaterConservation": null,
+        "stories": 1,
+        "bathrooms": 1,
+        "numberOfUnitsInCommunity": null,
+        "listingTerms": "Down Payment Resource",
+        "otherParking": null,
+        "associationFee": null,
+        "marketingType": null,
+        "greenIndoorAirQuality": null,
+        "greenSustainability": null,
+        "heating": null,
+        "associationPhone": null,
+        "greenBuildingVerificationType": null,
+        "hasAttachedGarage": false,
+        "bedrooms": 3,
+        "architecturalStyle": null,
+        "listingId": null,
+        "structureType": null,
+        "interiorFeatures": [
+            "All Bedrooms Down",
+            "Kitchen",
+            "Laundry",
+            "Living Room"
+        ],
+        "horseAmenities": null,
+        "electric": null,
+        "otherFacts": {},
+        "lotFeatures": [
+            "0-1 Unit/Acre",
+            "Paved"
+        ],
+        "roofType": null,
+        "taxAnnualAmount": 3016,
+        "constructionMaterials": {},
+        "basementYN": false,
+        "hoaFeeTotal": null,
+        "appliances": null,
+        "daysOnZillow": 89,
+        "bathroomsPartial": null,
+        "bathroomsHalf": null,
+        "listAOR": "California Regional MLS",
+        "isSeniorCommunity": null,
+        "buildingName": null,
+        "hasAssociation": false,
+        "elementarySchool": null,
+        "virtualTour": null,
+        "yearBuiltEffective": null,
+        "hasCarport": null,
+        "associationName": null,
+        "hasLandLease": false,
+        "communityFeatures": [
+            "Curbs",
+            "Sidewalks",
+            "Suburban"
+        ],
+        "commonWalls": "No Common Walls",
+        "elevation": null,
+        "lotSizeDimensions": null,
+        "entryLocation": "1",
+        "propertySubType": [
+            "Single Family Residence"
+        ],
+        "yearBuilt": 1942,
+        "propertyCondition": null,
+        "parcelNumber": "0478154270000",
+        "utilities": null,
+        "hasHomeWarranty": false,
+        "incomeIncludes": null,
+        "highSchool": null,
+        "otherStructures": null,
+        "livingArea": "1,190 sqft",
+        "livingAreaRangeUnits": null,
+        "doorFeatures": null,
+        "isNewConstruction": false,
+        "windowFeatures": null,
+        "ownership": null,
+        "woodedArea": null,
+        "middleOrJuniorSchoolDistrict": null,
+        "associationPhone2": null,
+        "exteriorFeatures": {},
+        "foundationDetails": {},
+        "frontageLength": null,
+        "buildingFeatures": null,
+        "associationAmenities": null,
+        "buildingAreaSource": null,
+        "hasCooling": true,
+        "buildingArea": null,
+        "parkingFeatures": [
+            "Garage"
+        ],
+        "foundationArea": null,
+        "zoning": null,
+        "hoaFee": null,
+        "livingAreaRange": null,
+        "additionalParcelsDescription": null,
+        "aboveGradeFinishedArea": null,
+        "availabilityDate": null,
+        "waterfrontFeatures": null,
+        "zoningDescription": null,
+        "cumulativeDaysOnMarket": "77 days",
+        "waterBodyName": null,
+        "attic": null,
+        "hasView": true,
+        "cropsIncludedYN": null,
+        "securityFeatures": null,
+        "fireplaceFeatures": [
+            "None"
+        ],
+        "canRaiseHorses": false,
+        "greenEnergyEfficient": null,
+        "developmentStatus": null,
+        "ownershipType": null,
+        "garageParkingCapacity": 2,
+        "associations": {},
+        "waterView": null,
+        "hasOpenParking": null,
+        "laundryFeatures": [
+            "Laundry Room"
+        ],
+        "bathroomsFull": 1,
+        "buyerAgencyCompensation": "2.5",
+        "additionalFeeInfo": null,
+        "homeType": "SingleFamily",
+        "spaFeatures": null,
+        "municipality": null,
+        "bathroomsThreeQuarter": null,
+        "hasSpa": false,
+        "hasHeating": null,
+        "associationFee2": null,
+        "cooling": [
+            "Evaporative Cooling"
+        ],
+        "openParkingCapacity": null,
+        "associationName2": null,
+        "hasRentControl": null,
+        "elementarySchoolDistrict": null,
+        "otherEquipment": null,
+        "mainLevelBedrooms": 1,
+        "specialListingConditions": "Standard",
+        "furnished": false,
+        "vegetation": null,
+        "patioAndPorchFeatures": null,
+        "bathroomsFloat": 1,
+        "builderName": null,
+        "highSchoolDistrict": "Adelanto",
+        "irrigationWaterRightsYN": null,
+        "storiesTotal": 1,
+        "exclusions": null,
+        "fireplaces": null,
+        "landLeaseAmount": null,
+        "fencing": null,
+        "coveredParkingCapacity": 2,
+        "middleOrJuniorSchool": null,
+        "hasElectricOnProperty": null,
+        "onMarketDate": 1697587200000,
+        "basement": null,
+        "parkingCapacity": 2,
+        "pricePerSquareFoot": 218,
+        "atAGlanceFacts": [
+            {
+                "factValue": "Single Family Residence",
+                "factLabel": "Type"
+            },
+            {
+                "factValue": "1942",
+                "factLabel": "Year Built"
+            },
+            {
+                "factValue": null,
+                "factLabel": "Heating"
+            },
+            {
+                "factValue": "Evaporative Cooling",
+                "factLabel": "Cooling"
+            },
+            {
+                "factValue": "2 Garage spaces",
+                "factLabel": "Parking"
+            },
+            {
+                "factValue": "7,100 sqft",
+                "factLabel": "Lot"
+            },
+            {
+                "factValue": "89 Days",
+                "factLabel": "Days on Zillow"
+            },
+            {
+                "factValue": "$218",
+                "factLabel": "Price/sqft"
+            },
+            {
+                "factValue": "2.5",
+                "factLabel": "Buyers Agency Fee"
+            },
+            {
+                "factValue": null,
+                "factLabel": "Offer Review Date"
+            }
+        ],
+        "levels": "One"
+    },
+    "taxHistory": {},
+    "brokerId": null,
+    "stateId": 9,
+    "streetAddress": "16604 E St",
+    "listingSubType": {
+        "is_FSBA": true,
+        "is_comingSoon": false,
+        "is_newHome": false,
+        "is_pending": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_openHouse": false,
+        "is_FSBO": false
+    },
+    "solarPotential": null,
+    "dateSold": null,
+    "countyId": 3250,
+    "timeZone": "America/Los_Angeles",
+    "homeType": "SINGLE_FAMILY",
+    "livingAreaUnits": "sqft",
+    "comingSoonOnMarketDate": null,
+    "rentZestimate": 1937,
+    "bathrooms": 1,
+    "annualHomeownersInsurance": 1092,
+    "state": "CA",
+    "propertyTypeDimension": "Single Family",
+    "building": null,
+    "listed_by": {
+        "agent_reason": 3,
+        "zpro": false,
+        "recent_sales": 0,
+        "zuid": "X1-ZU10jdavpa7jitl_3wgux",
+        "review_count": 28,
+        "display_name": "Jessika Gomez",
+        "profile_url": "https://www.zillow.com/profile/jessikagomez/",
+        "business_name": "Rodeo Realty",
+        "rating_average": 5,
+        "phone": null,
+        "badge_type": "Listing Agent",
+        "image_url": "https://photos.zillowstatic.com/h_n/ISf01dfudvp65q0000000000.jpg"
+    },
+    "yearBuilt": 1942,
+    "brokerageName": "Rodeo Realty",
+    "pageViewCount": 3594,
+    "county": "San Bernardino County",
+    "mortgageRates": {
+        "thirtyYearFixedRate": 6.341
+    },
+    "attributionInfo": {
+        "buyerAgentName": null,
+        "mlsName": "CRMLS",
+        "coAgentLicenseNumber": null,
+        "listingOffices": [
+            {
+                "associatedOfficeType": "listOffice",
+                "officeName": "Rodeo Realty"
+            }
+        ],
+        "lastUpdated": "2023-12-21 03:13:03",
+        "buyerAgentMemberStateLicense": null,
+        "brokerName": "Rodeo Realty",
+        "listingAgreement": null,
+        "infoString10": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2024-01-21 06:48:22 PST and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information\n\nThe listing broker\u2019s offer of compensation is made only to participants of the MLS where the listing is filed.",
+        "trueStatus": null,
+        "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_95_35.jpg",
+        "agentEmail": null,
+        "agentName": "Jessika Gomez",
+        "attributionTitle": "Listing Provided by:",
+        "mlsId": "HD23194493",
+        "coAgentName": null,
+        "coAgentNumber": null,
+        "infoString5": null,
+        "listingAgents": [
+            {
+                "memberStateLicense": "DRE #01983444",
+                "memberFullName": "Jessika Gomez",
+                "associatedAgentType": "listAgent"
+            }
+        ],
+        "agentPhoneNumber": null,
+        "agentLicenseNumber": "DRE #01983444",
+        "providerLogo": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_95_35.jpg",
+        "infoString16": null,
+        "buyerBrokerageName": null,
+        "mlsDisclaimer": "The multiple listing data appearing on this website, or contained in reports produced therefrom, is owned and copyrighted by California Regional Multiple Listing Service, Inc. (\"CRMLS\") and is protected by all applicable copyright laws. Information provided is for viewer's personal, non-commercial use and may not be used for any purpose other than to identify prospective properties the viewer may be interested in purchasing. All listing data, including but not limited to square footage and lot size is believed to be accurate, but the listing Agent, listing Broker and CRMLS and its affiliates do not warrant or guarantee such accuracy. The viewer should independently verify the listed data prior to making any decisions based on such information by personal inspection and/or contacting a real estate professional.\n\nBased on information from California Regional Multiple Listing Service, Inc. as of 2024-01-21 06:48:22 PST and /or other sources. All data, including all measurements and calculations of area, is obtained from various sources and has not been, and will not be, verified by broker or MLS. All information should be independently reviewed and verified for accuracy. Properties may or may not be listed by the office/agent presenting the information\n\nThe listing broker\u2019s offer of compensation is made only to participants of the MLS where the listing is filed.",
+        "brokerPhoneNumber": "310-471-2600",
+        "lastChecked": "2024-01-21 06:48:22"
+    },
+    "monthlyHoaFee": null,
+    "homeStatus": "FOR_SALE",
+    "homeFacts": null,
+    "latitude": 34.541378,
+    "datePosted": "2023-10-24",
+    "bedrooms": 3,
+    "nearbyHomes": [
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=34.541378021240234,-117.29670715332031&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&&signature=Pu1ITOzBqdmrVrlOGbrweQkBNwU="
+                }
+            ],
+            "zpid": 17478512,
+            "longitude": -117.29671,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "16604 East Trl",
+                "zipcode": "92394"
+            },
+            "price": 241900,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.541378
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=34.541194915771484,-117.29647827148438&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&&signature=Hb-8dYAtM2f_xW0e1zfaEN5YY-Q="
+                }
+            ],
+            "zpid": 137771957,
+            "longitude": -117.29648,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "16628 East Trl",
+                "zipcode": "92394"
+            },
+            "price": 0,
+            "homeType": "LOT",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.541195
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/streetview?location=16638+East+St%2C+Victorville%2C+CA+92395&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=za9Wb7hKAT-etZPzHj9HdMdDK78="
+                }
+            ],
+            "zpid": 137771956,
+            "longitude": -117.29639,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "16638 East St",
+                "zipcode": "92395"
+            },
+            "price": 608,
+            "homeType": "LOT",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.541126
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=34.541080474853516,-117.29632568359375&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&&signature=bCtsmzvNBIGed2E93zgwx8AHDYA="
+                }
+            ],
+            "zpid": 137771955,
+            "longitude": -117.296326,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "16620 East St",
+                "zipcode": "92395"
+            },
+            "price": 7241,
+            "homeType": "LOT",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.54108
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=34.541072845458984,-117.29631042480469&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&&signature=wpn1d48gt-Uts2iP5dkA-cjrE5U="
+                }
+            ],
+            "zpid": 17478511,
+            "longitude": -117.29631,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "16620 East Trl",
+                "zipcode": "92394"
+            },
+            "price": 236600,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.541073
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/streetview?location=16620+E+St%2C+Victorville%2C+CA+92395&size=316x234&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=0MFJ2cGSANZcWX6XvTBasZgag5Q="
+                }
+            ],
+            "zpid": 2066850521,
+            "longitude": -117.29631,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "16620 E St",
+                "zipcode": "92395"
+            },
+            "price": 0,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.541073
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/ef97915bab1b8dfa475fdc4660749d80-p_c.jpg"
+                }
+            ],
+            "zpid": 2104713422,
+            "longitude": -117.296394,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "15733 1st St",
+                "zipcode": "92395"
+            },
+            "price": 186100,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.541912
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://maps.googleapis.com/maps/api/staticmap?mobile=false&sensor=true&maptype=satellite&size=316x234&zoom=17&center=34.541748046875,-117.29736328125&key=AIzaSyBJsNQO5ZeG-XAbqqWLKwG08fWITSxg33w&&signature=DzoFLZkoUAWaN0Ne5Refg0pOuKI="
+                }
+            ],
+            "zpid": 137771962,
+            "longitude": -117.29736,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "E St",
+                "zipcode": "92395"
+            },
+            "price": 37500,
+            "homeType": "LOT",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.541748
+        }
+    ],
+    "livingArea": 1190,
+    "priceHistory": [
+        {
+            "priceChangeRate": 0,
+            "date": "2023-12-21",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1703116800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "HD23194493"
+            },
+            "pricePerSquareFoot": 218,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 260000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2023-12-15",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1702598400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "HD23194493"
+            },
+            "pricePerSquareFoot": 218,
+            "buyerAgent": null,
+            "event": "Pending sale",
+            "price": 260000
+        },
+        {
+            "priceChangeRate": -0.11864406779661,
+            "date": "2023-12-02",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1701475200000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "HD23194493"
+            },
+            "pricePerSquareFoot": 218,
+            "buyerAgent": null,
+            "event": "Price change",
+            "price": 260000
+        },
+        {
+            "priceChangeRate": -0.013377926421405,
+            "date": "2023-11-28",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1701129600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "HD23194493"
+            },
+            "pricePerSquareFoot": 248,
+            "buyerAgent": null,
+            "event": "Price change",
+            "price": 295000
+        },
+        {
+            "priceChangeRate": -0.035172636334301,
+            "date": "2023-11-18",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1700265600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "HD23194493"
+            },
+            "pricePerSquareFoot": 251,
+            "buyerAgent": null,
+            "event": "Price change",
+            "price": 299000
+        },
+        {
+            "priceChangeRate": -0.015878056525881,
+            "date": "2023-11-09",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1699488000000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "HD23194493"
+            },
+            "pricePerSquareFoot": 260,
+            "buyerAgent": null,
+            "event": "Price change",
+            "price": 309900
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2023-10-18",
+            "source": "CRMLS",
+            "postingIsRental": false,
+            "time": 1697587200000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "CRMLS",
+                "infoString3": "https://photos.zillowstatic.com/fp/9f61463932aa73f48f1ae3d056f0eb39-zillow_web_logo_inf_11.jpg",
+                "infoString1": "HD23194493"
+            },
+            "pricePerSquareFoot": 265,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 314900
+        }
+    ],
+    "favoriteCount": 172,
+    "schools": [
+        {
+            "link": "https://www.greatschools.org/california/victorville/5355-Victor-Valley-High-School/",
+            "rating": 2,
+            "totalCount": null,
+            "distance": 0.9,
+            "assigned": null,
+            "name": "Victor Valley High School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "High",
+            "grades": "9-12",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/california/victorville/5342-Del-Rey-Elementary-School/",
+            "rating": 3,
+            "totalCount": null,
+            "distance": 1.1,
+            "assigned": null,
+            "name": "Del Rey Elementary School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Elementary",
+            "grades": "K-6",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/california/victorville/14988-University-Preparatory-School/",
+            "rating": 10,
+            "totalCount": null,
+            "distance": 4.2,
+            "assigned": null,
+            "name": "University Preparatory School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Middle",
+            "grades": "7-12",
+            "type": "Public"
+        }
+    ],
+    "zestimateHighPercent": "5",
+    "mlsid": "HD23194493",
+    "countyFIPS": null,
+    "city": "Victorville",
+    "providerListingID": null,
+    "country": "USA",
+    "currency": "USD",
+    "isListedByOwner": null,
+    "contingentListingType": null
+}
