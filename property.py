@@ -26,9 +26,10 @@ us_address_regex = re.compile(
 
 
 @dataclass
-class Property:
+class SearchPropertyRow:
     """
-    Dataclass representing a Property.
+    Dataclass representing a brief summary of a Property from searching.
+    Corresponds to a single row in a tsv from a search query.
     """
 
     zpid: int
@@ -46,9 +47,10 @@ class Property:
     zip_code: Optional[int]
 
 
-def build_property(prop: Dict) -> Property:
+def build_property_search_row(prop: Dict) -> SearchPropertyRow:
     """
-    Build a normalized dataclass representing a property.
+    Build a normalized dataclass representing a property. Each Property is a high level
+    summary of essential details.
     :param prop: Property data.
     :return: Property dataclass.
     """
@@ -68,7 +70,7 @@ def build_property(prop: Dict) -> Property:
         state = None
         zip_code = None
 
-    return Property(
+    return SearchPropertyRow(
         zpid=prop["zpid"],
         property_type=prop["propertyType"],
         beds=prop["bedrooms"],

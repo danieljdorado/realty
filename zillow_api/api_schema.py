@@ -7,7 +7,8 @@ import marshmallow
 from marshmallow_dataclass import dataclass
 from typing import Dict, List, Optional
 
-
+# Schema for the Search API. This returns a list of properties and essential data
+# that can be used for refining results.
 @dataclass
 class VariableData:
     text: Optional[str]
@@ -28,7 +29,7 @@ class listingSubType:
 
 
 @dataclass
-class Property:
+class SearchProperty:
     class Meta:
         """Allow unknown fields since this is an undocumented API."""
 
@@ -75,7 +76,7 @@ class Property:
 
 
 @dataclass
-class ZillowResponse:
+class ZillowSearchResponse:
     """
     Zillow Search Response.
     """
@@ -85,7 +86,7 @@ class ZillowResponse:
 
         unknown = marshmallow.EXCLUDE
 
-    props: List[Property]
+    props: List[SearchProperty]
     resultsPerPage: int
     totalPages: int
     totalResultCount: int
