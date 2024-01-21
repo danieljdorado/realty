@@ -12,7 +12,7 @@ us_address_regex = re.compile(
     ^                           # Start of string
     (?P<street_number>\d+)      # Named Group: Match one or more digits (street number)
     \s+                         # Match one or more whitespace characters
-    (?P<street_name>[\w\s.-]+)  # Named Group: Match street name (alphanumeric, spaces, dots, hyphens)
+    (?P<street_name>[\w\s.#-]+)  # Named Group: Match street name (alphanumeric, spaces, dots, hyphens)
     ,\s*                        # Match comma and optional whitespace
     (?P<city>[\w\s.-]+)         # Named Group: Match city (alphanumeric, spaces, dots, hyphens)
     ,\s*                        # Match comma and optional whitespace
