@@ -59,9 +59,9 @@ class Property:
     contingentListingType: Optional[str]
     "Unsure, only have seen foreclosure"
 
-    latitute: int
+    latitute: float
     "Latitude of property"
-    longitude: int
+    longitude: float
     "longitude of property"
     listingStatus: str
     zpid: int
