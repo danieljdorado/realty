@@ -100,6 +100,8 @@ class RealtyProperty:
     time_on_zillow: str
     zestimate: int
     rent_zestimate: str
+    lot_size: Optional[int]
+    "Lot size in square feet."
     annual_homeowners_insurance: int
     beds: int
     baths: int
@@ -109,6 +111,17 @@ class RealtyProperty:
     page_view_count: int
     home_status: str
     monthly_hoa_fee: Optional[int]
+
+
+def get_lot_size(lot_string) -> Optional[int]:
+    """Get lot size
+    Assume that this will always be sqft.
+    """
+
+    if lot_string:
+        lot = lot_string.split()
+        return int(lot[0].replace(",", ""))
+    return None
 
 
 def build_realty_property(prop: Dict) -> RealtyProperty:
@@ -121,6 +134,7 @@ def build_realty_property(prop: Dict) -> RealtyProperty:
         time_on_zillow=prop["timeOnZillow"],
         zestimate=prop["zestimate"],
         rent_zestimate=prop["rentZestimate"],
+        lot_size=get_lot_size(prop["resoFacts"]["lotSize"]),
         annual_homeowners_insurance=prop["annualHomeownersInsurance"],
         beds=prop["bedrooms"],
         baths=prop["bathrooms"],

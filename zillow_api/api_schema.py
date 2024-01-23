@@ -8,6 +8,7 @@ from marshmallow_dataclass import dataclass
 
 import marshmallow
 
+
 # Schema for the Search API. This returns a list of properties and essential data
 # that can be used for refining results.
 @dataclass
@@ -97,9 +98,11 @@ class ZillowSearchResponse:
 
 # Schema for Individual Properties.
 
+
 @dataclass
 class Address:
     """Property Address"""
+
     community: Optional[str]
     city: str
     neighborhood: Optional[str]
@@ -107,14 +110,24 @@ class Address:
     streetAddress: str
     zipcode: int
 
+
 @dataclass
 class MortgageRates:
     "Mortgage Rate Data."
     thirtyYearFixedRate: float
 
+
+@dataclass
+class ResoFacts:
+    """"""
+
+    lotSize: str
+
+
 @dataclass
 class ZillowPropertyResponse:
     """Class representing the Returned Response Object for a Specific Property."""
+
     zpid: int
     "Zillow Property ID"
     propertyTaxRate: float
@@ -141,4 +154,5 @@ class ZillowPropertyResponse:
     bedrooms: int
     livingArea: int
     favoriteCount: int
+    resoFacts: ResoFacts
     "How many users have favorited this property."
