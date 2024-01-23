@@ -95,7 +95,7 @@ class RealtyProperty:
 
     zpid: int
     price: int
-    "Asking price."
+    "Asking price, sold for or rent price."
     property_tax_rate: float
     time_on_zillow: str
     zestimate: int

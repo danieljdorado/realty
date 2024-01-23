@@ -136,6 +136,7 @@ class ZillowPropertyResponse:
     zestimate: int
     description: str
     price: int
+    "Asking price, sold for or rent price."
     livingAreaValue: int
     rentZestimate: int
     bathrooms: int
