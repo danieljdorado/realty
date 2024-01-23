@@ -1,0 +1,1163 @@
+{
+    "listingProvider": {
+        "enhancedVideoURL": null,
+        "showNoContactInfoMessage": false,
+        "postingGroupName": null,
+        "isZRMSourceText": null,
+        "showLogos": null,
+        "logos": {},
+        "sourceText": null,
+        "title": "Listing Provided by",
+        "disclaimerText": null,
+        "postingWebsiteURL": null,
+        "agentLicenseNumber": null,
+        "postingWebsiteLinkText": "See listing website",
+        "enhancedDescriptionText": null,
+        "agentName": null
+    },
+    "zpid": 17481187,
+    "buildingPermits": null,
+    "propertyTaxRate": 1.16,
+    "contact_recipients": [
+        {
+            "agent_reason": 1,
+            "zpro": null,
+            "recent_sales": 0,
+            "review_count": 156,
+            "display_name": "Deanna Vela",
+            "zuid": "X1-ZU13et8cqej22o9_2f38z",
+            "rating_average": 5,
+            "badge_type": "Premier Agent",
+            "phone": {
+                "prefix": "653",
+                "areacode": "626",
+                "number": "4208"
+            },
+            "image_url": "https://photos.zillowstatic.com/fp/a8d389755aeb2df603476469c93e2cc7-h_n.jpg"
+        }
+    ],
+    "zipcode": "92395",
+    "openHouseSchedule": {},
+    "longitude": -117.25861,
+    "zestimateLowPercent": "9",
+    "address": {
+        "community": null,
+        "city": "Victorville",
+        "state": "CA",
+        "neighborhood": null,
+        "subdivision": null,
+        "streetAddress": "13299 Seagull Dr",
+        "zipcode": "92395"
+    },
+    "cityId": 27683,
+    "timeOnZillow": "26 days",
+    "url": "/homedetails/13299-Seagull-Dr-Victorville-CA-92395/17481187_zpid/",
+    "zestimate": 431800,
+    "imgSrc": "https://photos.zillowstatic.com/fp/cd591c193dc59c0640de8d63d564cce4-p_d.jpg",
+    "description": "FANTASTIC VIEW across street of Lake,Perfect Spring valley Association HOA Security system,  2 Bed and 1 full Bath down stairs,1 specious mater bed with full bath upstairs,Custom Cabinet and Granite counter top on Kitchen, A covered real patio an big deck upstairs over looking lake from master and upstairs landing areas,Maintenance free landscaping front and real and much more!",
+    "price": 430500,
+    "livingAreaValue": 1872,
+    "resoFacts": {
+        "hasAttachedProperty": false,
+        "frontageType": null,
+        "poolFeatures": null,
+        "flooring": {},
+        "builderModel": null,
+        "accessibilityFeatures": null,
+        "hasGarage": false,
+        "hasPetsAllowed": null,
+        "bodyType": null,
+        "topography": null,
+        "landLeaseExpirationDate": null,
+        "hasAdditionalParcels": false,
+        "waterViewYN": null,
+        "livingQuarters": {},
+        "totalActualRent": null,
+        "offerReviewDate": null,
+        "horseYN": null,
+        "view": [
+            "Territorial"
+        ],
+        "buyerAgencyCompensationType": null,
+        "rooms": [
+            {
+                "level": null,
+                "dimensions": null,
+                "features": null,
+                "roomAreaUnits": null,
+                "roomArea": null,
+                "roomAreaSource": null,
+                "roomType": "DiningRoom",
+                "roomDescription": null,
+                "roomWidth": null,
+                "roomLevel": null,
+                "description": null,
+                "roomLengthWidthUnits": null,
+                "roomLength": null,
+                "roomFeatures": null,
+                "roomDimensions": null,
+                "roomLengthWidthSource": null,
+                "area": null
+            }
+        ],
+        "belowGradeFinishedArea": null,
+        "feesAndDues": [
+            {
+                "phone": null,
+                "name": null,
+                "fee": "$88 monthly",
+                "type": "HOA"
+            }
+        ],
+        "cityRegion": "Victorville",
+        "mainLevelBathrooms": null,
+        "hasPrivatePool": null,
+        "associationFeeIncludes": null,
+        "waterSource": null,
+        "carportParkingCapacity": null,
+        "inclusions": null,
+        "hasFireplace": true,
+        "gas": null,
+        "sewer": null,
+        "elevationUnits": null,
+        "roadSurfaceType": null,
+        "subdivisionName": null,
+        "numberOfUnitsVacant": null,
+        "hasWaterfrontView": null,
+        "bathroomsOneQuarter": 0,
+        "lotSize": "7,548 sqft",
+        "entryLevel": null,
+        "irrigationWaterRightsAcres": null,
+        "greenWaterConservation": null,
+        "stories": null,
+        "bathrooms": 2,
+        "numberOfUnitsInCommunity": null,
+        "listingTerms": null,
+        "otherParking": null,
+        "associationFee": null,
+        "marketingType": null,
+        "greenIndoorAirQuality": null,
+        "greenSustainability": null,
+        "heating": [
+            "Other",
+            "Gas"
+        ],
+        "associationPhone": null,
+        "greenBuildingVerificationType": null,
+        "hasAttachedGarage": null,
+        "bedrooms": 3,
+        "architecturalStyle": null,
+        "listingId": null,
+        "structureType": "Modern",
+        "interiorFeatures": null,
+        "horseAmenities": null,
+        "electric": null,
+        "otherFacts": [
+            {
+                "value": "Range, Microwave, Dishwasher, Disposal",
+                "name": "Appliances"
+            },
+            {
+                "value": "Frame",
+                "name": "Construction"
+            },
+            {
+                "value": "Stucco",
+                "name": "Exterior"
+            },
+            {
+                "value": "Combination",
+                "name": "Floors"
+            },
+            {
+                "value": "Covered Patio",
+                "name": "Patio"
+            },
+            {
+                "value": "Sale",
+                "name": "Transaction Type"
+            },
+            {
+                "value": "Paved/Asphalt",
+                "name": "Frontage"
+            },
+            {
+                "value": "Central Air",
+                "name": "Air Conditioning"
+            },
+            {
+                "value": "Yes",
+                "name": "Family Room"
+            },
+            {
+                "value": "Block",
+                "name": "Fence"
+            },
+            {
+                "value": "In House",
+                "name": "Laundry"
+            },
+            {
+                "value": "Yes",
+                "name": "Sewer Connected?"
+            },
+            {
+                "value": "Yes",
+                "name": "Sewer In?"
+            },
+            {
+                "value": "Yes",
+                "name": "Sewer Paid?"
+            },
+            {
+                "value": "Part",
+                "name": "Window Covering"
+            },
+            {
+                "value": "Natural Gas",
+                "name": "Water Heater"
+            },
+            {
+                "value": "Family Room",
+                "name": "Fireplace"
+            },
+            {
+                "value": "Formal Dining Area",
+                "name": "Dining Room"
+            },
+            {
+                "value": "Pool, Club House, Tennis, Beach, Golf Course",
+                "name": "PUD Amenities/Svcs."
+            },
+            {
+                "value": "Tile",
+                "name": "Roof"
+            },
+            {
+                "value": "Lake",
+                "name": "View"
+            },
+            {
+                "value": "Full",
+                "name": "Landscaping"
+            },
+            {
+                "value": "Finished",
+                "name": "Basement"
+            },
+            {
+                "value": "Residential",
+                "name": "Property Type"
+            },
+            {
+                "value": "Exclusive Right To Sell",
+                "name": "Agreement Type"
+            },
+            {
+                "value": "Single Family Residence",
+                "name": "Property Subtype 1"
+            },
+            {
+                "value": "Yes",
+                "name": "Attached Garage"
+            },
+            {
+                "value": "Public",
+                "name": "Water"
+            },
+            {
+                "value": "Victor Valley MLS",
+                "name": "Association"
+            },
+            {
+                "value": "High Desert AOR",
+                "name": "MLS Origin"
+            },
+            {
+                "value": "Yes",
+                "name": "Assoc. Fees"
+            }
+        ],
+        "lotFeatures": null,
+        "roofType": "Tile",
+        "taxAnnualAmount": 4994,
+        "constructionMaterials": [
+            "wood frame"
+        ],
+        "basementYN": false,
+        "hoaFeeTotal": "$88 monthly",
+        "appliances": [
+            "Dishwasher",
+            "Microwave",
+            "Range / Oven"
+        ],
+        "daysOnZillow": 26,
+        "bathroomsPartial": null,
+        "bathroomsHalf": 0,
+        "listAOR": null,
+        "isSeniorCommunity": null,
+        "buildingName": null,
+        "hasAssociation": true,
+        "elementarySchool": null,
+        "virtualTour": null,
+        "yearBuiltEffective": null,
+        "hasCarport": null,
+        "associationName": null,
+        "hasLandLease": false,
+        "communityFeatures": [
+            "On Site Laundry Available"
+        ],
+        "commonWalls": null,
+        "elevation": null,
+        "lotSizeDimensions": null,
+        "entryLocation": null,
+        "propertySubType": null,
+        "yearBuilt": 1980,
+        "propertyCondition": null,
+        "parcelNumber": "3088331080000",
+        "utilities": null,
+        "hasHomeWarranty": false,
+        "incomeIncludes": null,
+        "highSchool": null,
+        "otherStructures": null,
+        "livingArea": "1,872 sqft",
+        "livingAreaRangeUnits": null,
+        "doorFeatures": null,
+        "isNewConstruction": null,
+        "windowFeatures": null,
+        "ownership": null,
+        "woodedArea": null,
+        "middleOrJuniorSchoolDistrict": "Other",
+        "associationPhone2": null,
+        "exteriorFeatures": [
+            "Stucco"
+        ],
+        "foundationDetails": {},
+        "frontageLength": null,
+        "buildingFeatures": null,
+        "associationAmenities": null,
+        "buildingAreaSource": null,
+        "hasCooling": true,
+        "buildingArea": null,
+        "parkingFeatures": [
+            "Garage - Attached"
+        ],
+        "foundationArea": null,
+        "zoning": null,
+        "hoaFee": "$88 monthly",
+        "livingAreaRange": null,
+        "additionalParcelsDescription": null,
+        "aboveGradeFinishedArea": null,
+        "availabilityDate": null,
+        "waterfrontFeatures": null,
+        "zoningDescription": null,
+        "cumulativeDaysOnMarket": null,
+        "waterBodyName": null,
+        "attic": null,
+        "hasView": true,
+        "cropsIncludedYN": null,
+        "securityFeatures": null,
+        "fireplaceFeatures": null,
+        "canRaiseHorses": false,
+        "greenEnergyEfficient": null,
+        "developmentStatus": null,
+        "ownershipType": null,
+        "garageParkingCapacity": null,
+        "associations": [
+            {
+                "feeFrequency": "$88 monthly",
+                "name": null,
+                "phone": null
+            }
+        ],
+        "waterView": "",
+        "hasOpenParking": null,
+        "laundryFeatures": [
+            "In House"
+        ],
+        "bathroomsFull": 2,
+        "buyerAgencyCompensation": null,
+        "additionalFeeInfo": null,
+        "homeType": "SingleFamily",
+        "spaFeatures": null,
+        "municipality": null,
+        "bathroomsThreeQuarter": 0,
+        "hasSpa": false,
+        "hasHeating": true,
+        "associationFee2": null,
+        "cooling": [
+            "Central"
+        ],
+        "openParkingCapacity": null,
+        "associationName2": null,
+        "hasRentControl": null,
+        "elementarySchoolDistrict": "Other",
+        "otherEquipment": null,
+        "mainLevelBedrooms": null,
+        "specialListingConditions": null,
+        "furnished": false,
+        "vegetation": null,
+        "patioAndPorchFeatures": null,
+        "bathroomsFloat": 2,
+        "builderName": null,
+        "highSchoolDistrict": "Other",
+        "irrigationWaterRightsYN": null,
+        "storiesTotal": null,
+        "exclusions": null,
+        "fireplaces": null,
+        "landLeaseAmount": null,
+        "fencing": null,
+        "coveredParkingCapacity": null,
+        "middleOrJuniorSchool": null,
+        "hasElectricOnProperty": null,
+        "onMarketDate": null,
+        "basement": "Finished",
+        "parkingCapacity": 2,
+        "pricePerSquareFoot": 230,
+        "atAGlanceFacts": [
+            {
+                "factValue": "SingleFamily",
+                "factLabel": "Type"
+            },
+            {
+                "factValue": "1980",
+                "factLabel": "Year Built"
+            },
+            {
+                "factValue": "Other, Gas",
+                "factLabel": "Heating"
+            },
+            {
+                "factValue": "Central",
+                "factLabel": "Cooling"
+            },
+            {
+                "factValue": "2 Parking spaces",
+                "factLabel": "Parking"
+            },
+            {
+                "factValue": "$88 monthly",
+                "factLabel": "HOA"
+            },
+            {
+                "factValue": "7,548 sqft",
+                "factLabel": "Lot"
+            },
+            {
+                "factValue": null,
+                "factLabel": "Offer Review Date"
+            }
+        ],
+        "levels": null
+    },
+    "taxHistory": [
+        {
+            "time": 1674484461532,
+            "valueIncreaseRate": 0.02,
+            "taxIncreaseRate": 0.01655336,
+            "taxPaid": 4276.02,
+            "value": 332928
+        },
+        {
+            "time": 1642948461532,
+            "valueIncreaseRate": 0.02,
+            "taxIncreaseRate": 0.018042881,
+            "taxPaid": 4206.39,
+            "value": 326400
+        },
+        {
+            "time": 1611412461532,
+            "valueIncreaseRate": 1.0337476,
+            "taxIncreaseRate": 0.9253411,
+            "taxPaid": 4131.84,
+            "value": 320000
+        },
+        {
+            "time": 1579790061532,
+            "valueIncreaseRate": 0.020005316,
+            "taxIncreaseRate": 0.014810574,
+            "taxPaid": 2146.03,
+            "value": 157345
+        },
+        {
+            "time": 1548254061532,
+            "valueIncreaseRate": 0.01999537,
+            "taxIncreaseRate": 0.01676565,
+            "taxPaid": 2114.71,
+            "value": 154259
+        },
+        {
+            "time": 1516718061532,
+            "valueIncreaseRate": 0.019997302,
+            "taxIncreaseRate": 0.020129507,
+            "taxPaid": 2079.84,
+            "value": 151235
+        },
+        {
+            "time": 1485182061532,
+            "valueIncreaseRate": 0.020005228,
+            "taxIncreaseRate": 0,
+            "taxPaid": 2038.8,
+            "value": 148270
+        },
+        {
+            "time": 1453559661532,
+            "valueIncreaseRate": 0.015246649,
+            "taxIncreaseRate": 0.01959375,
+            "taxPaid": 2038.8,
+            "value": 145362
+        },
+        {
+            "time": 1422023661532,
+            "valueIncreaseRate": 0.019982332,
+            "taxIncreaseRate": 0.03597589,
+            "taxPaid": 1999.62,
+            "value": 143179
+        },
+        {
+            "time": 1390487661532,
+            "valueIncreaseRate": 0.004536997,
+            "taxIncreaseRate": 0,
+            "taxPaid": 1930.18,
+            "value": 140374
+        },
+        {
+            "time": 1358951661532,
+            "valueIncreaseRate": 0.02,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 139740
+        },
+        {
+            "time": 1327329261532,
+            "valueIncreaseRate": 0.053846154,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 137000
+        },
+        {
+            "time": 1295793261532,
+            "valueIncreaseRate": 0,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 130000
+        },
+        {
+            "time": 1264257261532,
+            "valueIncreaseRate": -0.2777778,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 130000
+        },
+        {
+            "time": 1232721261532,
+            "valueIncreaseRate": -0.3478261,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 180000
+        },
+        {
+            "time": 1201098861532,
+            "valueIncreaseRate": -0.26868045,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 276000
+        },
+        {
+            "time": 1169562861532,
+            "valueIncreaseRate": 0.02,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 377400
+        },
+        {
+            "time": 1138026861532,
+            "valueIncreaseRate": 2.267974,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 370000
+        },
+        {
+            "time": 1106490861532,
+            "valueIncreaseRate": 0.02,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 113220
+        },
+        {
+            "time": 1074868461532,
+            "valueIncreaseRate": 0.018666374,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 111000
+        },
+        {
+            "time": 1043332461532,
+            "valueIncreaseRate": 0.020003932,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 108966
+        },
+        {
+            "time": 1011796461532,
+            "valueIncreaseRate": 0.019993316,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 106829
+        },
+        {
+            "time": 980260461532,
+            "valueIncreaseRate": 0.0200037,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 104735
+        },
+        {
+            "time": 948638061532,
+            "valueIncreaseRate": 0,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 102681
+        }
+    ],
+    "brokerId": null,
+    "stateId": 9,
+    "streetAddress": "13299 Seagull Dr",
+    "listingSubType": {
+        "is_FSBA": false,
+        "is_comingSoon": false,
+        "is_newHome": false,
+        "is_pending": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_openHouse": false,
+        "is_FSBO": false
+    },
+    "solarPotential": null,
+    "dateSold": "2023-12-27",
+    "countyId": 3250,
+    "timeZone": "America/Los_Angeles",
+    "homeType": "SINGLE_FAMILY",
+    "livingAreaUnits": "sqft",
+    "comingSoonOnMarketDate": null,
+    "rentZestimate": 2299,
+    "bathrooms": 2,
+    "annualHomeownersInsurance": 1808,
+    "state": "CA",
+    "propertyTypeDimension": "Single Family",
+    "building": null,
+    "listed_by": {
+        "agent_reason": null,
+        "zpro": null,
+        "recent_sales": null,
+        "review_count": null,
+        "display_name": null,
+        "badge_type": null,
+        "business_name": null,
+        "rating_average": null,
+        "phone": null,
+        "zuid": null,
+        "image_url": null
+    },
+    "yearBuilt": 1980,
+    "brokerageName": null,
+    "pageViewCount": 39,
+    "county": "San Bernardino County",
+    "mortgageRates": {
+        "thirtyYearFixedRate": 6.309
+    },
+    "attributionInfo": {
+        "buyerAgentName": null,
+        "mlsName": null,
+        "coAgentLicenseNumber": null,
+        "listingOffices": [
+            {
+                "associatedOfficeType": "listOffice",
+                "officeName": null
+            }
+        ],
+        "lastUpdated": null,
+        "buyerAgentMemberStateLicense": null,
+        "brokerName": null,
+        "listingAgreement": null,
+        "infoString10": null,
+        "trueStatus": null,
+        "infoString3": null,
+        "agentEmail": null,
+        "agentName": null,
+        "attributionTitle": null,
+        "mlsId": null,
+        "coAgentName": null,
+        "coAgentNumber": null,
+        "infoString5": null,
+        "listingAgents": {},
+        "agentPhoneNumber": null,
+        "agentLicenseNumber": null,
+        "providerLogo": null,
+        "infoString16": null,
+        "buyerBrokerageName": null,
+        "mlsDisclaimer": null,
+        "brokerPhoneNumber": null,
+        "lastChecked": null
+    },
+    "monthlyHoaFee": 88,
+    "homeStatus": "RECENTLY_SOLD",
+    "homeFacts": null,
+    "latitude": 34.492653,
+    "datePosted": "",
+    "bedrooms": 3,
+    "nearbyHomes": [
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/da1c113497057bb71a944691a4322db2-p_c.jpg"
+                }
+            ],
+            "zpid": 138004785,
+            "longitude": -117.258514,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13301 Sea Gull Dr",
+                "zipcode": "92395"
+            },
+            "price": 68330,
+            "homeType": "LOT",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.492805
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/9415a5afa7bb4bd696ae7e7476163aa4-p_c.jpg"
+                }
+            ],
+            "zpid": 55030189,
+            "longitude": -117.25872,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13295 Seagull Dr",
+                "zipcode": "92395"
+            },
+            "price": 516200,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.492504
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/bac43f242ad9168da365e9ff6d847538-p_c.jpg"
+                }
+            ],
+            "zpid": 17481189,
+            "longitude": -117.25824,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13340 Country Club Dr",
+                "zipcode": "92395"
+            },
+            "price": 496300,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.492523
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/33f9b92dcb386cbc2f84ab9c5010d7b4-p_c.jpg"
+                }
+            ],
+            "zpid": 17481117,
+            "longitude": -117.25843,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13305 Sea Gull Dr",
+                "zipcode": "92395"
+            },
+            "price": 432200,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.49296
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/68489b23f6af4c18d408fd5259dc2f54-p_c.jpg"
+                }
+            ],
+            "zpid": 2096643461,
+            "longitude": -117.25843,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13305 Sea Gull Dr #0",
+                "zipcode": "92395"
+            },
+            "price": 440200,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.49296
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/135f6501bbd25dff19bf53ed0c5a40e6-p_c.jpg"
+                }
+            ],
+            "zpid": 17481190,
+            "longitude": -117.25835,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13338 Country Club Dr",
+                "zipcode": "92395"
+            },
+            "price": 472800,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.49238
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/4e0d10528ed75196729baefa14f8c3b3-p_c.jpg"
+                }
+            ],
+            "zpid": 17481186,
+            "longitude": -117.25885,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13291 Seagull Dr",
+                "zipcode": "92395"
+            },
+            "price": 458500,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "OTHER",
+            "currency": "USD",
+            "latitude": 34.492363
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/8258f0691f771037ae60faf38bb1c730-p_c.jpg"
+                }
+            ],
+            "zpid": 17481188,
+            "longitude": -117.25815,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13344 Country Club Dr",
+                "zipcode": "92395"
+            },
+            "price": 375000,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "SOLD",
+            "currency": "USD",
+            "latitude": 34.492672
+        }
+    ],
+    "livingArea": 1872,
+    "priceHistory": [
+        {
+            "priceChangeRate": 0.3453125,
+            "date": "2023-12-27",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1703635200000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 230,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 430500
+        },
+        {
+            "priceChangeRate": 0.070234113712375,
+            "date": "2020-10-30",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1604016000000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 171,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 320000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2020-09-28",
+            "source": "Newstar Realty & Investment",
+            "postingIsRental": false,
+            "time": 1601251200000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Newstar Realty & Investment",
+                "infoString3": null,
+                "infoString1": "528418"
+            },
+            "pricePerSquareFoot": 160,
+            "buyerAgent": null,
+            "event": "Pending sale",
+            "price": 299000
+        },
+        {
+            "priceChangeRate": 1.1824817518248,
+            "date": "2020-09-21",
+            "source": "Newstar Realty & Investment",
+            "postingIsRental": false,
+            "time": 1600646400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Newstar Realty & Investment",
+                "infoString3": null,
+                "infoString1": "528418"
+            },
+            "pricePerSquareFoot": 160,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 299000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2011-09-22",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1316649600000,
+            "sellerAgent": {
+                "name": "Paula Goodspeed",
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/h_e/IS15ewmm4kdeffn.jpg"
+                },
+                "profileUrl": "/profile/Paulagood/"
+            },
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 73,
+            "buyerAgent": {
+                "name": "Bryan Pore",
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/h_e/ISynoauxmg578t1000000000.jpg"
+                },
+                "profileUrl": "/profile/The-Pore-Team/"
+            },
+            "event": "Sold",
+            "price": 137000
+        },
+        {
+            "priceChangeRate": -0.43238316208154,
+            "date": "2011-07-29",
+            "source": "isNowListed.com",
+            "postingIsRental": false,
+            "time": 1311897600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "isNowListed.com",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 73,
+            "buyerAgent": null,
+            "event": "Listed for sale",
+            "price": 137000
+        },
+        {
+            "priceChangeRate": 0.14933333333333,
+            "date": "2011-07-06",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1309910400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 129,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 241360
+        },
+        {
+            "priceChangeRate": -0.3,
+            "date": "2008-07-18",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1216339200000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 112,
+            "buyerAgent": {
+                "name": "Mike Chamberlain",
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/h_e/ISj7pnqt3yabw90000000000.jpg"
+                },
+                "profileUrl": "/profile/Mike-Chamberlain/"
+            },
+            "event": "Sold",
+            "price": 210000
+        },
+        {
+            "priceChangeRate": -0.18918918918919,
+            "date": "2007-09-17",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1189987200000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 160,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 300000
+        },
+        {
+            "priceChangeRate": 2.8947368421053,
+            "date": "2005-12-20",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1135036800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 198,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 370000
+        },
+        {
+            "priceChangeRate": -0.044746103569633,
+            "date": "1995-12-11",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 818640000000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 51,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 95000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "1994-12-15",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 787449600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 53,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 99450
+        }
+    ],
+    "favoriteCount": 0,
+    "schools": [
+        {
+            "link": "https://www.greatschools.org/california/victorville/5356-Lakeview-Leadership-Academy/",
+            "rating": 3,
+            "totalCount": null,
+            "distance": 1.3,
+            "assigned": null,
+            "name": "Lakeview Leadership Academy",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Middle",
+            "grades": "7-12",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/california/victorville/14908-Endeavour-School-Of-Exploration/",
+            "rating": 7,
+            "totalCount": null,
+            "distance": 1.4,
+            "assigned": null,
+            "name": "Endeavour School Of Exploration",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Elementary",
+            "grades": "K-6",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/california/victorville/5345-Lomitas-Elementary-School/",
+            "rating": 3,
+            "totalCount": null,
+            "distance": 2.3,
+            "assigned": null,
+            "name": "Lomitas Elementary School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Elementary",
+            "grades": "K-6",
+            "type": "Public"
+        }
+    ],
+    "zestimateHighPercent": "10",
+    "mlsid": null,
+    "countyFIPS": "06071",
+    "city": "Victorville",
+    "providerListingID": null,
+    "country": "USA",
+    "currency": "USD",
+    "isListedByOwner": null,
+    "contingentListingType": null
+}

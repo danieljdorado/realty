@@ -1,0 +1,864 @@
+{
+    "listingProvider": {
+        "enhancedVideoURL": null,
+        "showNoContactInfoMessage": false,
+        "postingGroupName": null,
+        "isZRMSourceText": null,
+        "showLogos": null,
+        "logos": {},
+        "sourceText": "Source: Zillow Rentals",
+        "title": "Listing Provided by",
+        "disclaimerText": null,
+        "postingWebsiteURL": null,
+        "agentLicenseNumber": null,
+        "postingWebsiteLinkText": "See listing website",
+        "enhancedDescriptionText": null,
+        "agentName": null
+    },
+    "zpid": 17481174,
+    "buildingPermits": null,
+    "propertyTaxRate": 1.16,
+    "contact_recipients": {},
+    "zipcode": "92395",
+    "openHouseSchedule": {},
+    "longitude": -117.26419,
+    "zestimateLowPercent": "5",
+    "address": {
+        "community": null,
+        "city": "Victorville",
+        "state": "CA",
+        "neighborhood": null,
+        "subdivision": null,
+        "streetAddress": "13255 Country Club Dr",
+        "zipcode": "92395"
+    },
+    "cityId": 27683,
+    "timeOnZillow": "23 days",
+    "url": "/homedetails/13255-Country-Club-Dr-Victorville-CA-92395/17481174_zpid/",
+    "zestimate": 423900,
+    "imgSrc": "https://photos.zillowstatic.com/fp/00e0eb240e7755a671dd54b5e2b6311f-p_d.jpg",
+    "description": "Home with GOLF COURSE backyard in the safe resort community of SPRING VALLEY LAKE!\n\nPerfect WORK-FROM-HOME ENVIRONMENT while living in a leisurely fashion.\n\nPark, beach, lake, fishing areas, private country club, golf courses, and more.\n\nLarge OPEN CONCEPT living area with HIGH CEILING. \n\nIf all criteria are met, please APPLY DIRECTLY on this Zillow ad (at top of page, click \"Apply Now\"). This listing will NOT be on Craigslist (beware of Craigslist scams).\n\nBy appointment only. This property is under recorded security video surveillance. \n\nCRITERIA:\n- Monthly household gross income: $7,000\n- Satisfactory credit score\n- Credit report: NO accounts in debt collection & NO delinquent accounts\n- NO eviction history\n- Satisfactory criminal background check\n- NO pets\n- Tenant pays all utilities\n- Please submit a separate application for each 18+ adult\n- All information will be VERIFIED carefully so please do not be untruthful",
+    "price": 2500,
+    "livingAreaValue": 2103,
+    "resoFacts": {
+        "hasAttachedProperty": false,
+        "frontageType": null,
+        "poolFeatures": null,
+        "flooring": null,
+        "builderModel": null,
+        "accessibilityFeatures": null,
+        "hasGarage": false,
+        "hasPetsAllowed": false,
+        "bodyType": null,
+        "topography": null,
+        "landLeaseExpirationDate": null,
+        "hasAdditionalParcels": false,
+        "waterViewYN": null,
+        "livingQuarters": {},
+        "totalActualRent": null,
+        "offerReviewDate": null,
+        "horseYN": null,
+        "view": {},
+        "buyerAgencyCompensationType": null,
+        "rooms": {},
+        "belowGradeFinishedArea": null,
+        "feesAndDues": [
+            {
+                "phone": null,
+                "name": null,
+                "fee": "$3,000",
+                "type": "Deposit"
+            }
+        ],
+        "cityRegion": "Victorville",
+        "mainLevelBathrooms": null,
+        "hasPrivatePool": null,
+        "associationFeeIncludes": null,
+        "waterSource": null,
+        "carportParkingCapacity": null,
+        "inclusions": null,
+        "hasFireplace": null,
+        "gas": null,
+        "sewer": null,
+        "elevationUnits": null,
+        "roadSurfaceType": null,
+        "subdivisionName": null,
+        "numberOfUnitsVacant": null,
+        "hasWaterfrontView": null,
+        "bathroomsOneQuarter": null,
+        "lotSize": null,
+        "entryLevel": null,
+        "irrigationWaterRightsAcres": null,
+        "greenWaterConservation": null,
+        "stories": null,
+        "bathrooms": 2,
+        "numberOfUnitsInCommunity": null,
+        "listingTerms": null,
+        "otherParking": [
+            "Contact manager"
+        ],
+        "associationFee": null,
+        "marketingType": null,
+        "greenIndoorAirQuality": null,
+        "greenSustainability": null,
+        "heating": null,
+        "associationPhone": null,
+        "greenBuildingVerificationType": null,
+        "hasAttachedGarage": true,
+        "bedrooms": 3,
+        "architecturalStyle": null,
+        "listingId": null,
+        "structureType": null,
+        "interiorFeatures": [
+            "WD Hookup"
+        ],
+        "horseAmenities": null,
+        "electric": null,
+        "otherFacts": {},
+        "lotFeatures": null,
+        "roofType": null,
+        "taxAnnualAmount": 29,
+        "constructionMaterials": {},
+        "basementYN": false,
+        "hoaFeeTotal": null,
+        "appliances": null,
+        "daysOnZillow": 23,
+        "bathroomsPartial": null,
+        "bathroomsHalf": null,
+        "listAOR": null,
+        "isSeniorCommunity": null,
+        "buildingName": null,
+        "hasAssociation": null,
+        "elementarySchool": null,
+        "virtualTour": null,
+        "yearBuiltEffective": null,
+        "hasCarport": false,
+        "associationName": null,
+        "hasLandLease": false,
+        "communityFeatures": null,
+        "commonWalls": null,
+        "elevation": null,
+        "lotSizeDimensions": null,
+        "entryLocation": null,
+        "propertySubType": [
+            "Single Family Residence"
+        ],
+        "yearBuilt": null,
+        "propertyCondition": null,
+        "parcelNumber": "3088321420000",
+        "utilities": null,
+        "hasHomeWarranty": false,
+        "incomeIncludes": null,
+        "highSchool": null,
+        "otherStructures": null,
+        "livingArea": "2,103 sqft",
+        "livingAreaRangeUnits": null,
+        "doorFeatures": null,
+        "isNewConstruction": null,
+        "windowFeatures": null,
+        "ownership": null,
+        "woodedArea": null,
+        "middleOrJuniorSchoolDistrict": null,
+        "associationPhone2": null,
+        "exteriorFeatures": [
+            "No Utilities included in rent"
+        ],
+        "foundationDetails": {},
+        "frontageLength": null,
+        "buildingFeatures": null,
+        "associationAmenities": null,
+        "buildingAreaSource": null,
+        "hasCooling": true,
+        "buildingArea": null,
+        "parkingFeatures": [
+            "Attached"
+        ],
+        "foundationArea": null,
+        "zoning": null,
+        "hoaFee": null,
+        "livingAreaRange": null,
+        "additionalParcelsDescription": null,
+        "aboveGradeFinishedArea": null,
+        "availabilityDate": 1704067200000,
+        "waterfrontFeatures": null,
+        "zoningDescription": null,
+        "cumulativeDaysOnMarket": null,
+        "waterBodyName": null,
+        "attic": null,
+        "hasView": false,
+        "cropsIncludedYN": null,
+        "securityFeatures": null,
+        "fireplaceFeatures": null,
+        "canRaiseHorses": false,
+        "greenEnergyEfficient": null,
+        "developmentStatus": null,
+        "ownershipType": null,
+        "garageParkingCapacity": null,
+        "associations": {},
+        "waterView": null,
+        "hasOpenParking": false,
+        "laundryFeatures": [
+            "Hookups"
+        ],
+        "bathroomsFull": 2,
+        "buyerAgencyCompensation": null,
+        "additionalFeeInfo": null,
+        "homeType": "SingleFamily",
+        "spaFeatures": null,
+        "municipality": null,
+        "bathroomsThreeQuarter": null,
+        "hasSpa": false,
+        "hasHeating": null,
+        "associationFee2": null,
+        "cooling": [
+            "Central Air"
+        ],
+        "openParkingCapacity": null,
+        "associationName2": null,
+        "hasRentControl": null,
+        "elementarySchoolDistrict": null,
+        "otherEquipment": null,
+        "mainLevelBedrooms": null,
+        "specialListingConditions": null,
+        "furnished": false,
+        "vegetation": null,
+        "patioAndPorchFeatures": null,
+        "bathroomsFloat": 2,
+        "builderName": null,
+        "highSchoolDistrict": null,
+        "irrigationWaterRightsYN": null,
+        "storiesTotal": null,
+        "exclusions": null,
+        "fireplaces": null,
+        "landLeaseAmount": null,
+        "fencing": null,
+        "coveredParkingCapacity": null,
+        "middleOrJuniorSchool": null,
+        "hasElectricOnProperty": null,
+        "onMarketDate": 1703894400000,
+        "basement": null,
+        "parkingCapacity": 0,
+        "pricePerSquareFoot": 1,
+        "atAGlanceFacts": [
+            {
+                "factValue": "Available Now",
+                "factLabel": "Date available"
+            },
+            {
+                "factValue": "Single Family Residence",
+                "factLabel": "Type"
+            },
+            {
+                "factValue": "Central Air",
+                "factLabel": "Cooling"
+            },
+            {
+                "factValue": null,
+                "factLabel": "Heating"
+            },
+            {
+                "factValue": "No Pets",
+                "factLabel": "Pets"
+            },
+            {
+                "factValue": "Attached Garage",
+                "factLabel": "Parking"
+            },
+            {
+                "factValue": "Hookups",
+                "factLabel": "Laundry"
+            },
+            {
+                "factValue": "$3,000",
+                "factLabel": "Deposit & fees"
+            }
+        ],
+        "levels": null
+    },
+    "taxHistory": [
+        {
+            "time": 1674485242669,
+            "valueIncreaseRate": 0.02,
+            "taxIncreaseRate": 0.01655336,
+            "taxPaid": 4276.02,
+            "value": 332928
+        },
+        {
+            "time": 1642949242669,
+            "valueIncreaseRate": 0.60338753,
+            "taxIncreaseRate": 0.534227,
+            "taxPaid": 4206.39,
+            "value": 326400
+        },
+        {
+            "time": 1611413242669,
+            "valueIncreaseRate": 0.010358245,
+            "taxIncreaseRate": 0.01772112,
+            "taxPaid": 2741.7,
+            "value": 203569
+        },
+        {
+            "time": 1579790842669,
+            "valueIncreaseRate": 0.020001924,
+            "taxIncreaseRate": 0.015263091,
+            "taxPaid": 2693.96,
+            "value": 201482
+        },
+        {
+            "time": 1548254842669,
+            "valueIncreaseRate": 0.02000444,
+            "taxIncreaseRate": 0.00029027875,
+            "taxPaid": 2653.46,
+            "value": 197531
+        },
+        {
+            "time": 1516718842669,
+            "valueIncreaseRate": 0.020004319,
+            "taxIncreaseRate": 0.020335974,
+            "taxPaid": 2652.69,
+            "value": 193657
+        },
+        {
+            "time": 1485182842669,
+            "valueIncreaseRate": 0.020001505,
+            "taxIncreaseRate": 0,
+            "taxPaid": 2599.82,
+            "value": 189859
+        },
+        {
+            "time": 1453560442669,
+            "valueIncreaseRate": 0.015250354,
+            "taxIncreaseRate": 0.019793186,
+            "taxPaid": 2599.82,
+            "value": 186136
+        },
+        {
+            "time": 1422024442669,
+            "valueIncreaseRate": 0.019977858,
+            "taxIncreaseRate": 0.03624102,
+            "taxPaid": 2549.36,
+            "value": 183340
+        },
+        {
+            "time": 1390488442669,
+            "valueIncreaseRate": 0.00453791,
+            "taxIncreaseRate": 0,
+            "taxPaid": 2460.2,
+            "value": 179749
+        },
+        {
+            "time": 1358952442669,
+            "valueIncreaseRate": 0.020002509,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 178937
+        },
+        {
+            "time": 1327330042669,
+            "valueIncreaseRate": 0.020001395,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 175428
+        },
+        {
+            "time": 1295794042669,
+            "valueIncreaseRate": 0.0075335964,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 171988
+        },
+        {
+            "time": 1264258042669,
+            "valueIncreaseRate": -0.0023727703,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 170702
+        },
+        {
+            "time": 1232722042669,
+            "valueIncreaseRate": 0.019999642,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 171108
+        },
+        {
+            "time": 1201099642669,
+            "valueIncreaseRate": 0.019998297,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 167753
+        },
+        {
+            "time": 1169563642669,
+            "valueIncreaseRate": 0.020001365,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 164464
+        },
+        {
+            "time": 1138027642669,
+            "valueIncreaseRate": 0.019996457,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 161239
+        },
+        {
+            "time": 1106491642669,
+            "valueIncreaseRate": 0.019996257,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 158078
+        },
+        {
+            "time": 1074869242669,
+            "valueIncreaseRate": 0.01866714,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 154979
+        },
+        {
+            "time": 1043333242669,
+            "valueIncreaseRate": 0.019999195,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 152139
+        },
+        {
+            "time": 1011797242669,
+            "valueIncreaseRate": 0.020002598,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 149156
+        },
+        {
+            "time": 980261242669,
+            "valueIncreaseRate": 0,
+            "taxIncreaseRate": 0,
+            "taxPaid": null,
+            "value": 146231
+        }
+    ],
+    "brokerId": null,
+    "stateId": 9,
+    "streetAddress": "13255 Country Club Dr",
+    "listingSubType": {
+        "is_FSBA": false,
+        "is_comingSoon": false,
+        "is_newHome": false,
+        "is_pending": false,
+        "is_forAuction": false,
+        "is_foreclosure": false,
+        "is_bankOwned": false,
+        "is_openHouse": false,
+        "is_FSBO": false
+    },
+    "solarPotential": null,
+    "dateSold": null,
+    "countyId": 3250,
+    "timeZone": "America/Los_Angeles",
+    "homeType": "SINGLE_FAMILY",
+    "livingAreaUnits": "sqft",
+    "comingSoonOnMarketDate": null,
+    "rentZestimate": 2650,
+    "bathrooms": 2,
+    "annualHomeownersInsurance": 11,
+    "state": "CA",
+    "propertyTypeDimension": "Single Family",
+    "building": null,
+    "listed_by": {
+        "agent_reason": null,
+        "zpro": null,
+        "recent_sales": null,
+        "review_count": null,
+        "display_name": null,
+        "badge_type": null,
+        "business_name": null,
+        "rating_average": null,
+        "phone": null,
+        "zuid": null,
+        "image_url": null
+    },
+    "yearBuilt": null,
+    "brokerageName": null,
+    "pageViewCount": 873,
+    "county": "San Bernardino County",
+    "mortgageRates": {
+        "thirtyYearFixedRate": 6.04
+    },
+    "attributionInfo": {
+        "buyerAgentName": null,
+        "mlsName": "Zillow Rentals",
+        "coAgentLicenseNumber": null,
+        "listingOffices": {},
+        "lastUpdated": "2024-01-03 05:11:44",
+        "buyerAgentMemberStateLicense": null,
+        "brokerName": null,
+        "listingAgreement": null,
+        "infoString10": "",
+        "trueStatus": null,
+        "infoString3": null,
+        "agentEmail": null,
+        "agentName": null,
+        "attributionTitle": null,
+        "mlsId": null,
+        "coAgentName": null,
+        "coAgentNumber": null,
+        "infoString5": null,
+        "listingAgents": {},
+        "agentPhoneNumber": null,
+        "agentLicenseNumber": null,
+        "providerLogo": null,
+        "infoString16": null,
+        "buyerBrokerageName": null,
+        "mlsDisclaimer": "",
+        "brokerPhoneNumber": null,
+        "lastChecked": "2024-01-23 05:17:57"
+    },
+    "monthlyHoaFee": null,
+    "homeStatus": "FOR_RENT",
+    "homeFacts": null,
+    "latitude": 34.491486,
+    "datePosted": "2023-12-30",
+    "bedrooms": 3,
+    "nearbyHomes": [
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/7179ff2c6c2ad2f136483468eae5b997-p_c.jpg"
+                }
+            ],
+            "zpid": 17481286,
+            "longitude": -117.25643,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13170 Meteor Dr",
+                "zipcode": "92395"
+            },
+            "price": 2950,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "FOR_RENT",
+            "currency": "USD",
+            "latitude": 34.490547
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/483d14e5840a40da33bc8a744eafc26f-p_c.jpg"
+                }
+            ],
+            "zpid": 17481746,
+            "longitude": -117.26931,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13490 Anchor Dr",
+                "zipcode": "92395"
+            },
+            "price": 3650,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "FOR_RENT",
+            "currency": "USD",
+            "latitude": 34.496452
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/538f548bbbfcc275df4bfdea3845f8d5-p_c.jpg"
+                }
+            ],
+            "zpid": 55030284,
+            "longitude": -117.25763,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "12926 Briarcliff Dr",
+                "zipcode": "92395"
+            },
+            "price": 2590,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "FOR_RENT",
+            "currency": "USD",
+            "latitude": 34.486546
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/8f0f015cd249342208926e7063cbead3-p_c.jpg"
+                }
+            ],
+            "zpid": 55029976,
+            "longitude": -117.275734,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13200 Alta Vista Dr",
+                "zipcode": "92395"
+            },
+            "price": 2800,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "FOR_RENT",
+            "currency": "USD",
+            "latitude": 34.49109
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/f5371ebaa66d846c36fcb38b45b14a2f-p_c.jpg"
+                }
+            ],
+            "zpid": 17480694,
+            "longitude": -117.2629,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "13805 Driftwood Dr",
+                "zipcode": "92395"
+            },
+            "price": 2400,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "FOR_RENT",
+            "currency": "USD",
+            "latitude": 34.502415
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/0f52a847e89a3aae8c53239fe677bab8-p_c.jpg"
+                }
+            ],
+            "zpid": 17482649,
+            "longitude": -117.25644,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "18649 Arrowhead Trl",
+                "zipcode": "92395"
+            },
+            "price": 2100,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "FOR_RENT",
+            "currency": "USD",
+            "latitude": 34.482468
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/b646163e0c6359cb45966c85e4009983-p_c.jpg"
+                }
+            ],
+            "zpid": 72654980,
+            "longitude": -117.277824,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "17676 View Mount Ct",
+                "zipcode": "92395"
+            },
+            "price": 3150,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "FOR_RENT",
+            "currency": "USD",
+            "latitude": 34.484882
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/8c9de57e8eaac21eb80dabf4a6dd9caf-p_c.jpg"
+                }
+            ],
+            "zpid": 17480593,
+            "longitude": -117.267525,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "18135 Lakeview Dr",
+                "zipcode": "92395"
+            },
+            "price": 2995,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "FOR_RENT",
+            "currency": "USD",
+            "latitude": 34.5046
+        },
+        {
+            "miniCardPhotos": [
+                {
+                    "url": "https://photos.zillowstatic.com/fp/f0bd9e6af81af6103b21d61745acd2ad-p_c.jpg"
+                }
+            ],
+            "zpid": 69004226,
+            "longitude": -117.27507,
+            "address": {
+                "city": "Victorville",
+                "state": "CA",
+                "streetAddress": "17805 Honeycomb Ln",
+                "zipcode": "92395"
+            },
+            "price": 2400,
+            "homeType": "SINGLE_FAMILY",
+            "homeStatus": "FOR_RENT",
+            "currency": "USD",
+            "latitude": 34.502007
+        }
+    ],
+    "livingArea": 2103,
+    "priceHistory": [
+        {
+            "priceChangeRate": 0.020408163265306,
+            "date": "2023-12-30",
+            "source": "Zillow Rentals",
+            "postingIsRental": true,
+            "time": 1703894400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Zillow Rentals",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 1,
+            "buyerAgent": null,
+            "event": "Listed for rent",
+            "price": 2500
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2021-10-11",
+            "source": "Zillow Rental Manager",
+            "postingIsRental": true,
+            "time": 1633910400000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Zillow Rental Manager",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": null,
+            "buyerAgent": null,
+            "event": "Listing removed",
+            "price": null
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "2021-10-09",
+            "source": "Zillow Rental Manager",
+            "postingIsRental": true,
+            "time": 1633737600000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Zillow Rental Manager",
+                "infoString3": null,
+                "infoString1": ""
+            },
+            "pricePerSquareFoot": 1,
+            "buyerAgent": null,
+            "event": "Listed for rent",
+            "price": 2450
+        },
+        {
+            "priceChangeRate": 1.6016260162602,
+            "date": "2021-03-26",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 1616716800000,
+            "sellerAgent": {
+                "name": "Matthew Jerkins",
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/h_e/IS7ydf1agoigcf1000000000.jpg"
+                },
+                "profileUrl": "/profile/matthewjerkins/"
+            },
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 152,
+            "buyerAgent": {
+                "name": "Matthew Jerkins",
+                "photo": {
+                    "url": "https://photos.zillowstatic.com/h_e/IS7ydf1agoigcf1000000000.jpg"
+                },
+                "profileUrl": "/profile/matthewjerkins/"
+            },
+            "event": "Sold",
+            "price": 320000
+        },
+        {
+            "priceChangeRate": 0,
+            "date": "1997-07-30",
+            "source": "Public Record",
+            "postingIsRental": false,
+            "time": 870220800000,
+            "sellerAgent": null,
+            "showCountyLink": false,
+            "attributeSource": {
+                "infoString2": "Public Record",
+                "infoString3": null,
+                "infoString1": null
+            },
+            "pricePerSquareFoot": 58,
+            "buyerAgent": null,
+            "event": "Sold",
+            "price": 123000
+        }
+    ],
+    "favoriteCount": 34,
+    "schools": [
+        {
+            "link": "https://www.greatschools.org/california/victorville/5356-Lakeview-Leadership-Academy/",
+            "rating": 3,
+            "totalCount": null,
+            "distance": 1,
+            "assigned": null,
+            "name": "Lakeview Leadership Academy",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Middle",
+            "grades": "7-12",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/california/victorville/14908-Endeavour-School-Of-Exploration/",
+            "rating": 7,
+            "totalCount": null,
+            "distance": 1.2,
+            "assigned": null,
+            "name": "Endeavour School Of Exploration",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Elementary",
+            "grades": "K-6",
+            "type": "Public"
+        },
+        {
+            "link": "https://www.greatschools.org/california/victorville/5345-Lomitas-Elementary-School/",
+            "rating": 3,
+            "totalCount": null,
+            "distance": 1.9,
+            "assigned": null,
+            "name": "Lomitas Elementary School",
+            "studentsPerTeacher": null,
+            "isAssigned": null,
+            "size": null,
+            "level": "Elementary",
+            "grades": "K-6",
+            "type": "Public"
+        }
+    ],
+    "zestimateHighPercent": "5",
+    "mlsid": null,
+    "countyFIPS": "06071",
+    "city": "Victorville",
+    "providerListingID": "2wqm94rtapq72",
+    "country": "USA",
+    "currency": "USD",
+    "isListedByOwner": null,
+    "contingentListingType": null
+}
