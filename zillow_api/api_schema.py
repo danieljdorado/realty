@@ -119,9 +119,31 @@ class MortgageRates:
 
 @dataclass
 class ResoFacts:
-    """"""
+    """Facts"""
 
     lotSize: str
+
+
+@dataclass
+class ZillowPriceHistory:
+    """Schema for a Zillow Price History Event."""
+
+    priceChangeRate: float
+    "Rate at which the price changed."
+    date: str
+    "Data of event"
+    source: str
+    "Data source"
+    postingIsRental: bool
+    "Whether the price change was for rent."
+    time: int
+    "Time of event."
+    pricePerSquareFoot: int
+    "Price change per square foot."
+    event: str
+    "Type of event that the price was change for."
+    price: int
+    "Listed Price."
 
 
 @dataclass
@@ -157,3 +179,4 @@ class ZillowPropertyResponse:
     favoriteCount: int
     resoFacts: ResoFacts
     "How many users have favorited this property."
+    priceHistory: List[ZillowPriceHistory]

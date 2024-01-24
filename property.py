@@ -4,7 +4,7 @@ Internal Realty Domain model.
 
 import re
 from dataclasses import dataclass
-from typing import Dict, Optional
+from typing import Dict, List, Optional
 
 
 us_address_regex = re.compile(
@@ -90,6 +90,30 @@ def build_property_search_row(prop: Dict) -> SearchPropertyRow:
 
 
 @dataclass
+class PricingEvent:
+    """An event that caused price to change. This can be  a new listing, a price change,
+    or listing for rent."""
+
+    zpid: int
+    price_change_rate: float
+    "Rate at which the price changed."
+    date: str
+    "Data of event"
+    source: str
+    "Data source"
+    positing_is_rental: bool
+    "Whether the price change was for rent."
+    time: int
+    "Time of event."
+    price_per_square_foot: int
+    "Price change per square foot."
+    event: str
+    "Type of event that the price was change for."
+    price: int
+    "Listed Price."
+
+
+@dataclass
 class RealtyProperty:
     """Dataclass representing land and buildings on it and natural resources."""
 
@@ -122,6 +146,30 @@ def get_lot_size(lot_string) -> Optional[int]:
         lot = lot_string.split()
         return int(lot[0].replace(",", ""))
     return None
+
+
+def build_price_history_event(history: Dict, zpid: int) -> PricingEvent:
+    "Build Price History Event"
+
+    return PricingEvent(
+        zpid=zpid,
+        price_change_rate=history["priceChangeRate"],
+        date=history["date"],
+        source=history["source"],
+        positing_is_rental=history["postingIsRental"],
+        time=history["time"],
+        price_per_square_foot=history["pricePerSquareFoot"],
+        event=history["event"],
+        price=history["price"],
+    )
+
+
+def get_property_price_history(prop: Dict) -> List[PricingEvent]:
+    "Return a list of pricing events for a property."
+
+    return [
+        build_price_history_event(event, prop["zpid"]) for event in prop["priceHistory"]
+    ]
 
 
 def build_realty_property(prop: Dict) -> RealtyProperty:
