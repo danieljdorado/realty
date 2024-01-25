@@ -136,6 +136,8 @@ class RealtyProperty:
     living_area_value: int
     year_built: int
     page_view_count: int
+    favorite_count: int
+    "How many times a user as favorited this property."
     home_status: str
     monthly_hoa_fee: Optional[int]
 
@@ -196,6 +198,7 @@ def build_realty_property(prop: Dict) -> RealtyProperty:
         living_area_value=prop["livingAreaValue"],
         year_built=prop["yearBuilt"],
         page_view_count=prop["pageViewCount"],
+        favorite_count=prop["favoriteCount"],
         home_status=prop["homeStatus"],
         monthly_hoa_fee=prop["monthlyHoaFee"],
     )
