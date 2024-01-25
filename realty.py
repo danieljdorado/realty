@@ -119,6 +119,8 @@ class RealtyProperty:
     """Dataclass representing land and buildings on it and natural resources."""
 
     zpid: int
+    address: str
+    "Street address."
     price: int
     "Asking price, sold for or rent price."
     property_tax_rate: float
@@ -180,6 +182,7 @@ def build_realty_property(prop: Dict) -> RealtyProperty:
 
     return RealtyProperty(
         zpid=prop["zpid"],
+        address=prop["address"]["streetAddress"],
         price=prop["price"],
         property_tax_rate=prop["propertyTaxRate"],
         time_on_zillow=prop["timeOnZillow"],

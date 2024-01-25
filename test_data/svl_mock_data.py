@@ -5,6 +5,7 @@ from realty import RealtyProperty
 svl_data = [
     RealtyProperty(
         zpid=1,
+        address="7985 Vista Point Dr",
         price=429000,
         property_tax_rate=1.2,
         time_on_zillow="19 days",
@@ -23,6 +24,7 @@ svl_data = [
     ),
     RealtyProperty(
         zpid=2,
+        address="13330 Alta Vista Dr",
         price=409500,
         property_tax_rate=1.2,
         time_on_zillow="20 days",
@@ -41,6 +43,7 @@ svl_data = [
     ),
     RealtyProperty(
         zpid=3,
+        address="18465 Mountain Meadows Dr",
         price=410000,
         property_tax_rate=1.2,
         time_on_zillow="18 days",
@@ -59,6 +62,7 @@ svl_data = [
     ),
     RealtyProperty(
         zpid=4,
+        address="13125 Riverview Dr",
         price=459900,
         property_tax_rate=1.2,
         time_on_zillow="10 days",
