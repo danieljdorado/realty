@@ -95,6 +95,7 @@ class PricingEvent:
     or listing for rent."""
 
     zpid: int
+    address: str
     price_change_rate: float
     "Rate at which the price changed."
     date: str
@@ -148,11 +149,12 @@ def get_lot_size(lot_string) -> Optional[int]:
     return None
 
 
-def build_price_history_event(history: Dict, zpid: int) -> PricingEvent:
+def build_price_history_event(history: Dict, zpid: int, address: str) -> PricingEvent:
     "Build Price History Event"
 
     return PricingEvent(
         zpid=zpid,
+        address=address,
         price_change_rate=history["priceChangeRate"],
         date=history["date"],
         source=history["source"],
@@ -168,7 +170,8 @@ def get_property_price_history(prop: Dict) -> List[PricingEvent]:
     "Return a list of pricing events for a property."
 
     return [
-        build_price_history_event(event, prop["zpid"]) for event in prop["priceHistory"]
+        build_price_history_event(event, prop["zpid"], prop["address"]["streetAddress"])
+        for event in prop["priceHistory"]
     ]
 
 
