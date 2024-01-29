@@ -33,6 +33,8 @@ class SearchPropertyRow:
     Corresponds to a single row in a tsv from a search query.
     """
 
+    # pylint: disable=too-many-instance-attributes
+
     zpid: int
     property_type: str
     beds: int
@@ -94,6 +96,8 @@ class PricingEvent:
     """An event that caused price to change. This can be  a new listing, a price change,
     or listing for rent."""
 
+    # pylint: disable=too-many-instance-attributes
+
     zpid: int
     address: str
     price_change_rate: float
@@ -117,6 +121,8 @@ class PricingEvent:
 @dataclass
 class RealtyProperty:
     """Dataclass representing land and buildings on it and natural resources."""
+
+    # pylint: disable=too-many-instance-attributes
 
     zpid: int
     address: str
