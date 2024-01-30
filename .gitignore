@@ -162,3 +162,5 @@ cython_debug/
 
 # Mac OS Folder Settings
 .DS_Store
+# Config
+config.py
